@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "uujoin",
+  "repo": "conggit/uujoin",
+  "files": {
+    "include": ["bootsxs.min.css", "site.min.css", "site.min.js"]
+  }
+}
